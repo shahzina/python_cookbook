@@ -15,3 +15,5 @@ This repo contains notes and practice code from the text. <br>
 1.7 OrderedDicts | Keeping dictionaries in order <br>
 1.8 zip(), max(), min() | Calculating with Dictionaries <br>
 1.9 set methods | Finding Commonalities between two dictionaries <br>
+1.10 dedupe() for hashable and non-hashable types | Removing Duplicates from a Sequence while Maintaining Order <br>
+1.11 

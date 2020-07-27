@@ -17,4 +17,5 @@ This repo contains notes and practice code from the text. <br>
 1.9 set methods | Finding Commonalities between two dictionaries <br>
 1.10 dedupe() for hashable and non-hashable types | Removing Duplicates from a Sequence while Maintaining Order <br>
 1.11 Naming a slice <br>
-1.12 
+1.12 Counter | Determining the Most Frequently Occurring Items in a Sequence <br>
+1.13
